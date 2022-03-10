@@ -1,0 +1,43 @@
+{
+  "root": "libs/base-button-library",
+  "sourceRoot": "libs/base-button-library/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nrwl/web:rollup",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/libs/base-button-library",
+        "tsConfig": "libs/base-button-library/tsconfig.lib.json",
+        "project": "libs/base-button-library/package.json",
+        "entryFile": "libs/base-button-library/src/index.ts",
+        "external": ["react/jsx-runtime"],
+        "rollupConfig": "@nrwl/react/plugins/bundle-rollup",
+        "compiler": "babel",
+        "assets": [
+          {
+            "glob": "libs/base-button-library/README.md",
+            "input": ".",
+            "output": "."
+          }
+        ]
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["libs/base-button-library/**/*.{ts,tsx,js,jsx}"]
+      }
+    },
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/base-button-library"],
+      "options": {
+        "jestConfig": "libs/base-button-library/jest.config.js",
+        "passWithNoTests": true
+      }
+    }
+  }
+}

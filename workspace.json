@@ -1,6 +1,12 @@
 {
   "version": 2,
   "projects": {
+    "base-button": "libs/base-button",
+    "base-button-library": "libs/base-button-library",
+    "base-component": "libs/base-component",
+    "base-form": "libs/base-form",
+    "base-input": "libs/base-input",
+    "base-ui": "libs/base-ui",
     "ui": "apps/ui",
     "ui-e2e": "apps/ui-e2e"
   }
