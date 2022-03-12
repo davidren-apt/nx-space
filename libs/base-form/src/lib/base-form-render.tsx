@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
-import { BaseButton } from '@cash/base-button-library';
-import { BaseInput } from '@cash/base-input';
+import { BaseButton } from '@wanderyt/base-button-library';
+import { BaseInput } from '@wanderyt/base-input';
 
 const FormWrapper = styled.div`
   border: 1px solid grey;

@@ -15,12 +15,12 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@cash/base-button-library": ["libs/base-button-library/src/index.ts"],
-      "@cash/base-component": ["libs/base-component/src/index.tsx"],
-      "@cash/base-form": ["libs/base-form/src/index.ts"],
-      "@cash/base-input": ["libs/base-input/src/index.ts"],
-      "@cash/base-ui": ["libs/base-ui/src/index.ts"],
-      "@cash/widgets": ["libs/base-button/src/index.ts"]
+      "@wanderyt/base-button-library": ["libs/base-button-library/src/index.ts"],
+      "@wanderyt/base-component": ["libs/base-component/src/index.tsx"],
+      "@wanderyt/base-form": ["libs/base-form/src/index.ts"],
+      "@wanderyt/base-input": ["libs/base-input/src/index.ts"],
+      "@wanderyt/base-ui": ["libs/base-ui/src/index.ts"],
+      "@wanderyt/widgets": ["libs/base-button/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

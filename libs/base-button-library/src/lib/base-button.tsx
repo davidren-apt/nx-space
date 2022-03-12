@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 const Wrapper = styled.div`
   width: 300px;
-  height: 30px;
+  height: 40px;
   background-color: #b4c3e1;
 `;
 
