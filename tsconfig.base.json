@@ -18,10 +18,8 @@
       "@wanderyt/base-button-library": [
         "libs/base-button-library/src/index.ts"
       ],
-      "@wanderyt/base-component": ["libs/base-component/src/index.tsx"],
       "@wanderyt/base-form": ["libs/base-form/src/index.ts"],
       "@wanderyt/base-input": ["libs/base-input/src/index.ts"],
-      "@wanderyt/base-ui": ["libs/base-ui/src/index.ts"],
       "@wanderyt/widgets": ["libs/base-button/src/index.ts"]
     }
   },
