@@ -10,7 +10,7 @@ const StyledBaseForm = styled.div`
 export function BaseForm(props: BaseFormProps) {
   return (
     <StyledBaseForm>
-      <h1>Welcome to BaseForm!</h1>
+      <h1>Welcome to Base Form!</h1>
     </StyledBaseForm>
   );
 }

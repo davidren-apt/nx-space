@@ -8,5 +8,5 @@ const Wrapper = styled.div`
 `;
 
 export const BaseButton = () => {
-  return <Wrapper>click me, do nothing</Wrapper>;
+  return <Wrapper>click me, do nothing!</Wrapper>;
 };

@@ -10,7 +10,7 @@ const StyledBaseInput = styled.div`
 export function BaseInput(props: BaseInputProps) {
   return (
     <StyledBaseInput>
-      <h1>Welcome to BaseInput!</h1>
+      <h1>Welcome to Base Input!</h1>
     </StyledBaseInput>
   );
 }

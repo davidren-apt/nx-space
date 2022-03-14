@@ -10,7 +10,7 @@ const StyledBaseButton = styled.div`
 export function BaseButton(props: BaseButtonProps) {
   return (
     <StyledBaseButton>
-      <h1>Welcome to BaseButton!</h1>
+      <h1>Welcome to Base Button!</h1>
     </StyledBaseButton>
   );
 }
