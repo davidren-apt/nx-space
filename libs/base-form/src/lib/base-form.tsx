@@ -16,3 +16,5 @@ export function BaseForm(props: BaseFormProps) {
 }
 
 export default BaseForm;
+
+export * from './base-form-render';
