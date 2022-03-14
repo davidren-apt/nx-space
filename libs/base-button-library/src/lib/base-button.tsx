@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const Wrapper = styled.div`
   width: 507px;
   height: 40px;
-  background-color: #b4c3e1;
+  background-color: #b2fce4;
 `;
 
 export const BaseButton = () => {
