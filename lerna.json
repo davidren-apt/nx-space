@@ -3,7 +3,12 @@
   "version": "independent",
   "command": {
     "version": {
-      "message": "chore(release): publish %s"
+      "allowBranch": ["main"],
+      "message": "chore: 🤖 update packages [ci skip]",
+      "changelogPreset": {
+        "name": "conventionalcommits"
+      },
+      "conventionalCommits": true
     }
   }
 }
