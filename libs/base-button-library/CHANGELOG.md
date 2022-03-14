@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.9.0](https://github.com/davidren-apt/nx-space/compare/@wanderyt/base-button-library@0.7.0...@wanderyt/base-button-library@0.9.0) (2022-03-14)
+
+
+### Features
+
+* add width ([766270e](https://github.com/davidren-apt/nx-space/commit/766270e0e2828bbf93c86baa324d3ab962c172ae))
+* add width ([bc1c950](https://github.com/davidren-apt/nx-space/commit/bc1c95049a275cf965af0d923cf77913861020d2))
+
+
+
 ## [0.8.0](https://github.com/davidren-apt/nx-space/compare/@wanderyt/base-button-library@0.7.0...@wanderyt/base-button-library@0.8.0) (2022-03-14)
 
 
