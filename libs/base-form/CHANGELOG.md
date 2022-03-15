@@ -2,6 +2,14 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [0.2.1](https://github.com/davidren-apt/nx-space/compare/base-form-0.2.0...base-form-0.2.1) (2022-03-15)
+
+### Dependency Updates
+
+* `base-button-library` updated to version `0.5.0`
+* `base-input` updated to version `0.2.0`
+
+
 # [0.2.0](https://github.com/davidren-apt/nx-space/compare/base-form-0.1.0...base-form-0.2.0) (2022-03-15)
 
 
