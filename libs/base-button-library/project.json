@@ -44,7 +44,7 @@
       "options": {
         "push": true,
         "commitMessageFormat": "chore(${projectName}): release version ${version}",
-        "postTargets": ["cash:github"]
+        "postTargets": ["base-button-library:github"]
       }
     },
     "github": {
