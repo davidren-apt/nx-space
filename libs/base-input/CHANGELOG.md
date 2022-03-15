@@ -2,6 +2,15 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# [0.2.0](https://github.com/davidren-apt/nx-space/compare/base-input-0.1.0...base-input-0.2.0) (2022-03-15)
+
+
+### Features
+
+* add width ([7eb8be3](https://github.com/davidren-apt/nx-space/commit/7eb8be37f92477627c399662eb88b7e59217e435))
+
+
+
 # 0.1.0 (2022-03-15)
 
 
