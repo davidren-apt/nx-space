@@ -42,8 +42,7 @@
     "version": {
       "executor": "@jscutlery/semver:version",
       "options": {
-        "commitMessageFormat": "chore(${projectName}): release version ${version}",
-        "baseBranch": "${baseCommit}"
+        "commitMessageFormat": "chore(${projectName}): release version ${version}"
       }
     }
   }
