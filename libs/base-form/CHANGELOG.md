@@ -2,6 +2,15 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# [0.2.0](https://github.com/davidren-apt/nx-space/compare/base-form-0.1.0...base-form-0.2.0) (2022-03-15)
+
+
+### Features
+
+* add width ([bdcfadf](https://github.com/davidren-apt/nx-space/commit/bdcfadf30f099520959d209ce653745fcaa925bd))
+
+
+
 # 0.1.0 (2022-03-15)
 
 
