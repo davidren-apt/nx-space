@@ -8,7 +8,9 @@
     "test": "nx test",
     "prepare": "husky install",
     "lerna:version": "lerna version --conventional-commits --yes --changelog-preset conventionalcommits",
-    "build:all": "nx run-many --target=build --all"
+    "build:all": "nx run-many --target=build --all",
+    "delete:tag": "git tag -d $(git tag -l) && git fetch && git push origin --delete $(git tag -l) && git tag -d $(git tag -l)",
+    "release:tag": "git tag -f last-release && git push -f origin last-release"
   },
   "private": true,
   "dependencies": {
