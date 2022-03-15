@@ -1,7 +1,38 @@
-# Change Log
+# Changelog
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
+
+# 0.1.0 (2022-03-15)
+
+
+### Features
+
+* add ([75f4d4b](https://github.com/davidren-apt/nx-space/commit/75f4d4b06f83f0594bb3ce923baa7849b8564d25))
+* add ([10a8fa1](https://github.com/davidren-apt/nx-space/commit/10a8fa17e06f655ac6e0d5beca93d0d73b7bfec0))
+* add ([4f0e685](https://github.com/davidren-apt/nx-space/commit/4f0e685909b0e1a139aeb25332d1b050f11fedc6))
+* add width ([8b0a95f](https://github.com/davidren-apt/nx-space/commit/8b0a95fb7359affa3c42f592be1cea6580d78c35))
+* add width ([0a3255d](https://github.com/davidren-apt/nx-space/commit/0a3255d749a413c0b412e1af39291f4e640434dd))
+* add width ([9d660d7](https://github.com/davidren-apt/nx-space/commit/9d660d771f9fde1c57bc50de053c55a23e64354e))
+* add width ([e510253](https://github.com/davidren-apt/nx-space/commit/e51025352a8aa1ef5e8c333ce82fdaa73de4df93))
+* add width ([f57b8f7](https://github.com/davidren-apt/nx-space/commit/f57b8f79d3da1c35f538d899564e565f8899f380))
+* add width ([4a63d96](https://github.com/davidren-apt/nx-space/commit/4a63d96d6937a4b5e87dbca88179490c175bb04d))
+* add width ([745c632](https://github.com/davidren-apt/nx-space/commit/745c632e810a92b877d312e0b031944628888f6f))
+* add width ([766270e](https://github.com/davidren-apt/nx-space/commit/766270e0e2828bbf93c86baa324d3ab962c172ae))
+* add width ([bc1c950](https://github.com/davidren-apt/nx-space/commit/bc1c95049a275cf965af0d923cf77913861020d2))
+* add width ([0510099](https://github.com/davidren-apt/nx-space/commit/0510099694181038f2157865b45c60a4c4636e56))
+* add width ([4a89f59](https://github.com/davidren-apt/nx-space/commit/4a89f59b830de0d1986e131914252da2a4dc90af))
+* add width ([c7db280](https://github.com/davidren-apt/nx-space/commit/c7db2801ba9711e00437a536b0682561d3f4dd26))
+* add width ([c87989d](https://github.com/davidren-apt/nx-space/commit/c87989dd94d09054f019877d27bdf3ff26923fae))
+* add width ([07f38ed](https://github.com/davidren-apt/nx-space/commit/07f38ede9d27585cb04f9afe629f7b33fe4e4263))
+* add width ([1b4850f](https://github.com/davidren-apt/nx-space/commit/1b4850fffaeb9d639bc9c13fc56bb07e5f4bce20))
+* add width ([3cbaa4b](https://github.com/davidren-apt/nx-space/commit/3cbaa4b662b97d49c5bf34a910f76a6dd0403903))
+* add width ([93e734e](https://github.com/davidren-apt/nx-space/commit/93e734eda88d9ab71a9f70c9445b26a5769ae776))
+* add width, and update message ([7599d9f](https://github.com/davidren-apt/nx-space/commit/7599d9f6c7aede782d5b37aa3560bbab24b475a4))
+* **base-button-library:** add width ([6a330f7](https://github.com/davidren-apt/nx-space/commit/6a330f7dc64720ece036108e68ac3a18a24d6ffb))
+* change color ([a6c6409](https://github.com/davidren-apt/nx-space/commit/a6c6409838de474db6d73db5c27cdf9451b797ab))
+* upgrade ([103603d](https://github.com/davidren-apt/nx-space/commit/103603d80b700b2245178afdf7a719adc9cfc080))
+
+
 
 ## [0.19.0](https://github.com/davidren-apt/nx-space/compare/@wanderyt/base-button-library@0.18.0...@wanderyt/base-button-library@0.19.0) (2022-03-15)
 
