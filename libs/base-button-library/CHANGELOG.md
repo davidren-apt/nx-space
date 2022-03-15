@@ -2,6 +2,15 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# [0.5.0](https://github.com/davidren-apt/nx-space/compare/base-button-library-0.4.0...base-button-library-0.5.0) (2022-03-15)
+
+
+### Features
+
+* add width ([e95edf4](https://github.com/davidren-apt/nx-space/commit/e95edf4f48d25e255242f8e0b94935808bfe0485))
+
+
+
 # [0.4.0](https://github.com/davidren-apt/nx-space/compare/base-button-library-0.3.0...base-button-library-0.4.0) (2022-03-15)
 
 
